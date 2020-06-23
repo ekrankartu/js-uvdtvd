@@ -5,8 +5,10 @@ import './style.css';
 const appDiv = document.getElementById('app');
 var s=`
 
-<h1>JS Startheyer</h1>
-deneme2
-
+<h1>alanya</h1>
+body of the page
+<div>
+new line
+</div>
 `;
 appDiv.innerHTML = s;
